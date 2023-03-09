@@ -1,0 +1,174 @@
+{"extensions": [
+    "https://raw.githubusercontent.com/CompraNet/ocds_schemeUrl_extension/master/extension.json",
+    "https://raw.githubusercontent.com/compranet-dev/ocds_frameworkAgreement_extension/main/extension.json"
+  ],
+  "license": "https://datos.gob.mx/libreusomx",
+  "publicationPolicy": "https://compranetinfo.hacienda.gob.mx/descargas/politica-publicacion-EDCA-MX.pdf",
+  "publishedDate": "2021-10-09T22:29:03Z",
+  "publisher": {
+    "name": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+    "uid": "6716",
+    "uri": "http://www.gob.mx/shcp"
+  },
+  "releases": [
+    {
+      "awards": [
+        {
+          "contractPeriod": {
+            "endDate": "2019-06-30T23:59:00Z",
+            "startDate": "2019-03-19T00:00:00Z"
+          },
+          "description": "SERVICIOS MEDICOS SUBROGADOS DE ESPECIALIZACION (ESTEREOLITOGRAFIAS",
+          "id": "2038777",
+          "items": [
+            {
+              "classification": {
+                "description": "Servicio de estudios clinicos",
+                "id": "33900008",
+                "scheme": "CUCOP",
+                "uri": "https://compranetinfo.hacienda.gob.mx/descargas/CUCOP.xlsx"
+              },
+              "description": "SERVICIOS MEDICOS SUBROGADOS DE ESPECIALIZACION (ESTEREOLITOGRAFIAS).",
+              "id": "5801086",
+              "quantity": 1,
+              "unit": {
+                "name": "Estudio",
+                "value": {
+                  "amount": 150000,
+                  "currency": "MXN"
+                }
+              }
+            }
+          ],
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "04B3DC027ADD775B746959A20A80292A",
+              "name": "APLICACIONES INDUSTRIALES DE CALIDAD, S.A. DE C.V."
+            }
+          ],
+          "title": "SERVICIOS MEDICOS SUBROGADOS DE ESPECIALIZACION (ESTEREOLITOGRAFIAS",
+          "value": {
+            "amount": 150000,
+            "currency": "MXN"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ISSSTE-181",
+        "name": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado"
+      },
+      "date": "2021-10-09T22:29:03Z",
+      "id": "SHCP-1892834-2021-10-09",
+      "initiationType": "tender",
+      "language": "es",
+      "ocid": "ocds-07smqs-1892834",
+      "parties": [
+        {
+          "address": {
+            "countryName": "MX",
+            "locality": "Iztapalapa",
+            "postalCode": "09220",
+            "region": "Ciudad de México",
+            "streetAddress": "Calzada Ignacio Zaragoza No 1711 Col. Ejercito Constitucionalista"
+          },
+          "contactPoint": {
+            "email": "dulce.violante@issste.gob.mx",
+            "name": "Dulce Idania Violante Medina",
+            "telephone": "57165268"
+          },
+          "id": "ISSSTE-181",
+          "identifier": {
+            "id": "ISS6001015A3-051GYN085",
+            "legalName": "ISSSTE-Hospital Regional Gral. Ignacio Zaragoza, Coordinación de Recursos Materiales #051GYN085",
+            "scheme": "MX-RFC",
+            "uri": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC"
+          },
+          "name": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+          "roles": [
+            "buyer"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "MX",
+            "locality": "Iztapalapa",
+            "postalCode": "09220",
+            "region": "Ciudad de México",
+            "streetAddress": "Calzada Ignacio Zaragoza No 1711 Col. Ejercito Constitucionalista"
+          },
+          "contactPoint": {
+            "email": "dulce.violante@issste.gob.mx",
+            "name": "Dulce Idania Violante Medina",
+            "telephone": "57165268"
+          },
+          "id": "ISS6001015A3-051GYN085",
+          "identifier": {
+            "id": "ISS6001015A3-051GYN085",
+            "legalName": "ISSSTE-Hospital Regional Gral. Ignacio Zaragoza, Coordinación de Recursos Materiales #051GYN085",
+            "scheme": "MX-RFC",
+            "uri": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC"
+          },
+          "name": "ISSSTE-Hospital Regional Gral. Ignacio Zaragoza, Coordinación de Recursos Materiales #051GYN085",
+          "roles": [
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "MÉXICO",
+            "locality": "ESTADO DE MEXICO",
+            "region": "MX-MEX"
+          },
+          "contactPoint": {
+            "email": "ma.buzo@issste.gob.mx",
+            "name": "- (Cuenta administrada por 'ISSSTE-Hospital Regional Gral. Ignacio Zaragoza, Coordinación de Recursos Materiales #051G')"
+          },
+          "id": "04B3DC027ADD775B746959A20A80292A",
+          "identifier": {
+            "id": "04B3DC027ADD775B746959A20A80292A",
+            "legalName": "APLICACIONES INDUSTRIALES DE CALIDAD, S.A. DE C.V.",
+            "scheme": "MX-RFC",
+            "uri": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC"
+          },
+          "name": "APLICACIONES INDUSTRIALES DE CALIDAD, S.A. DE C.V.",
+          "roles": [
+            "tenderer",
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award"
+      ],
+      "tender": {
+        "awardPeriod": {
+          "endDate": "2019-03-19T00:00:00Z"
+        },
+        "description": "SERVICIOS MEDICOS SUBROGADOS DE ESPECIALIZACION (ESTEREOLITOGRAFIAS)",
+        "enquiryPeriod": {
+          "startDate": "2021-09-28T16:39:00Z"
+        },
+        "hasEnquiries": false,
+        "id": "1892834",
+        "procurementMethod": "direct",
+        "procurementMethodRationale": "Art. 41 fr. V",
+        "procuringEntity": {
+          "id": "ISS6001015A3-051GYN085",
+          "name": "ISSSTE-Hospital Regional Gral. Ignacio Zaragoza, Coordinación de Recursos Materiales #051GYN085"
+        },
+        "status": "complete",
+        "submissionMethod": [
+          "electronicSubmission"
+        ],
+        "tenderPeriod": {
+          "startDate": "2021-09-28T16:39:00Z"
+        },
+        "title": "SERVICIOS MEDICOS SUBROGADOS DE ESPECIALIZACION (ESTEREOLITOGRAFIAS)"
+      }
+    }
+  ],
+  "uri": "http://172.23.106.220:8080/OCDSWS/rest/ocid/ocds-07smqs-1892834",
+  "version": "1.1"
+}
